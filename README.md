@@ -1,4 +1,4 @@
-echo "# Lab 5 - Firebase Firestore
+# Lab 5 - Firebase Firestore
 
 Built on top of Lab 3 (ListyCity) code.
 
